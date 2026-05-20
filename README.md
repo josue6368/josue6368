@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/josue6368/josue6368/blob/main/assets/kali_github_readme_terminal.gif" width="750" />
-</p>
-
 ### 👨‍🚀 Hi there, 
 
 
