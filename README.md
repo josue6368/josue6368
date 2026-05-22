@@ -33,7 +33,7 @@ I'm a cybersecurity professional with a strong interest in SOC operations, threa
 <br>
 <p align="center">
   <a href="https://github.com/josue6368?tab=repositories">
-    <img src="https://img.shields.io/badge/Full%20Project%20List-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Full%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
