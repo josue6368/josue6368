@@ -32,7 +32,7 @@ I'm a cybersecurity professional with a strong interest in SOC operations, threa
 - [Wazuh SIEM Home Lab](https://github.com/josue6368/Wazuh-SIEM-Home-Lab-Mini-SOC-Environment) — Built a mini SOC lab with Wazuh, Ubuntu Server, Kali Linux, and a Windows endpoint.
 <br>
 <p align="center">
-  <a href="https://github.com/josue6368?tab=repositories">
+  <a href="https://github.com/josue6368/portfolio">
     <img src="https://img.shields.io/badge/Full%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
