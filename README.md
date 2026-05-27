@@ -1,4 +1,4 @@
-### 👨‍🚀 Hi there, 
+40### 👨‍🚀 Hi there, 
 
 
 I'm a cybersecurity professional with a strong interest in SOC operations, threat detection, and hands-on security projects. I have experience working with tools like Splunk, Wazuh, Wireshark, Nmap, and Kali Linux, and I’m focused on continuing to build my skills in blue teaming, threat hunting, and incident response.
@@ -9,7 +9,7 @@ I'm a cybersecurity professional with a strong interest in SOC operations, threa
 <p>
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Zeek-1B1F23?style=flat&logo=zeek&logoColor=white">
   <img src="https://img.shields.io/badge/Nessus-00AEEF?style=flat&logo=tenable&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-004170?style=flat" />
@@ -17,7 +17,7 @@ I'm a cybersecurity professional with a strong interest in SOC operations, threa
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,powershell,bash,python,git,github" width="400" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,powershell,bash,python,git,github" width="440" />
 </p>
 
 ---
