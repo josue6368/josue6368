@@ -1,4 +1,4 @@
-40### 👨‍🚀 Hi there, 
+### 👨‍🚀 Hi there, 
 
 
 I'm a cybersecurity professional with a strong interest in SOC operations, threat detection, and hands-on security projects. I have experience working with tools like Splunk, Wazuh, Wireshark, Nmap, and Kali Linux, and I’m focused on continuing to build my skills in blue teaming, threat hunting, and incident response.
